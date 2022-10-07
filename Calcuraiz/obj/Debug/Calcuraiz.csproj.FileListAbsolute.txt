@@ -1,0 +1,11 @@
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\bin\Debug\Calcuraiz.exe.config
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\bin\Debug\Calcuraiz.exe
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\bin\Debug\Calcuraiz.pdb
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.csproj.AssemblyReference.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.Form1.resources
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.Properties.Resources.resources
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.csproj.GenerateResource.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.csproj.CoreCompileInputs.cache
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.exe
+C:\Users\delac\Documents\Jcrack\ITLA\Fundamento programación\Calcuraiz\Calcuraiz\obj\Debug\Calcuraiz.pdb
